@@ -1,10 +1,6 @@
 # Windows 激活码
 
-
-
 Windows Server 2022
-
-
 
 Windows Server 2022 Datacenter
 
