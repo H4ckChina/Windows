@@ -1,6 +1,4 @@
-# Windows 激活码
-
-Windows Server 2022
+# Windows Server 2022
 
 Windows Server 2022 Datacenter
 
@@ -14,6 +12,14 @@ slmgr /ato
 Windows Server 2022 Standard
 
 slmgr /ipk VDYBN-27WPP-V4HQT-9VMD4-VMK7H
+
+slmgr /skms kms.03k.org
+
+slmgr /ato
+
+# Windows11 专业工作站版
+
+slmgr /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
 
 slmgr /skms kms.03k.org
 
